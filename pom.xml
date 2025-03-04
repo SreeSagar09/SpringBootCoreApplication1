@@ -13,7 +13,7 @@
 	<groupId>com.app</groupId>
 	<artifactId>SpringBootCoreApplication1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootRunnerApplication1</name>
+	<name>SpringBootCoreApplication1</name>
 	<description>Srping Boot Core Application</description>
 	
 	<properties>
