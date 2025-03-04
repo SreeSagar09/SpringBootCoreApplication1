@@ -1,0 +1,1 @@
+A Program to show use of ConfigurableApplicationContext interface:
